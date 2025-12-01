@@ -1,13 +1,29 @@
-Through this project I made Trader Behavior Insights Report :-
-1. Introduction
-This report provides a simple overview of trader behavior using basic analysis steps.
-It includes data loading, structure checking, and preparation for further analysis.
-2. Data Loading
-In this step, the dataset is loaded using Python's pandas library.
-This helps in accessing the data and preparing it for analysis.
-3. Basic Data Overview
-I examine the first few rows, shape, and structure of the dataset to understand
-its contents and identify any missing values or inconsistencies.
-4. Conclusion
-The initial steps performed here prepare the dataset for deeper analysis such as
-visualization, feature exploration, and modeling in future stages.
+## ■ Project Title
+Trader Performance
+## ■ Project Description
+This project contains a Jupyter Notebook (`Trades.ipynb`) used for analyzing trading data. It includes:
+- Loading and processing trade datasets
+- Performing exploratory data analysis
+- Running calculations and generating insights
+- Saving outputs to files
+## ■■ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Google Colab
+## ■ Files Included
+- **Trades.ipynb** — Main analysis notebook
+- **csv files/** — Folder to store CSV files
+- **outputs/** —Folder to save results
+## ■■ How to Use
+1. Open the notebook in Colab
+2. Upload your CSV files
+3. Run all cells step-by-step
+4. Download or save results
+## ■ Output
+This notebook will generate:
+- Processed datasets
+- Computed metrics
+- Visualizations
+## ■ Author
+Chanchal Koli
